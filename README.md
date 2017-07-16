@@ -6,6 +6,10 @@ This is the code for [Scalable Microservices with Kubernetes](https://www.udacit
 * Deploy and manage Docker containers using kubectl
 * Deploy using [minikube](https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/)
 
+See also the labs under Managing Applications with Kubernetes at [craft kubernetes workshop](https://github.com/kelseyhightower/craft-kubernetes-workshop).
+
+
+
 ## Course Description
 
 Kubernetes is all about applications and in this course you will utilize the Kubernetes API to deploy, manage, and upgrade applications. In this part of the workshop you will use an example application called "app" to complete the labs.
